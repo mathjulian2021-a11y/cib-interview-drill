@@ -1,0 +1,33 @@
+{
+  "questions": 1136,
+  "formulas": 229,
+  "categories": {
+    "Accounting": 155,
+    "Valuation": 160,
+    "M&A": 221,
+    "Corporate Finance": 55,
+    "Financial Ratios": 80,
+    "LBO / Credit": 79,
+    "Fixed Income / Derivatives": 112,
+    "Global Markets / Macro": 144,
+    "Banking / Capital Markets": 80,
+    "Mental Math": 40,
+    "Behavioural": 10
+  },
+  "difficulty": {
+    "1": 201,
+    "2": 231,
+    "3": 258,
+    "4": 245,
+    "5": 201
+  },
+  "frequency": {
+    "5": 408,
+    "4": 446,
+    "3": 282
+  },
+  "level_3_5": 704,
+  "near_duplicate_warnings": 0,
+  "errors": [],
+  "warning_samples": []
+}
