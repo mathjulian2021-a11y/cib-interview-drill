@@ -1,0 +1,11 @@
+CIB Interview Drill v2 — update existing GitHub Pages repo
+
+Replace these four files in the ROOT of your existing repository:
+- index.html
+- styles.css
+- app.js
+- service-worker.js
+
+Do not delete data/ or assets/.
+Your existing study progress is stored locally on each device and remains compatible with v2.
+After GitHub Pages redeploys, refresh Safari once. If the Home Screen app still shows v1, fully close it and reopen it so the new service worker takes control.
